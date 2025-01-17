@@ -1,6 +1,6 @@
 # Logbook
 
-17.01.2025, 2h, Kick-off lecture, Lecture recording
+17.01.2025, 2h, Kick-off lecture, Lecture attendance
 
 | Date  | Used hours | Subject(s) |  output |
 | :---         |     :---:      |     :---:      |     :---:      |
