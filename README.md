@@ -6,3 +6,4 @@
 | :---         |     :---:      |     :---:      |     :---:      |
 | 17.01.2025 | 2 | Kick-off lecture  | Attended course introductory lecture  |
 | 23.01.2025 | 2 | Attended class lecture | Completed Hosting on Cloud assignment  |
+| 31.01.2025 | 2 | Attended class lecture | Updateed Logbook and started Cisco course |
