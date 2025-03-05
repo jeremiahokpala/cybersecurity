@@ -14,3 +14,6 @@
 | 12.02.2025 | 2 | class lecture | stated looking into booking system assignment |
 | 19.02.2025 | 12 | whatching lecture recordings | finally installed kali-linux after several attemps |
 | 20.02.2025 | 13 | doing booking system assignment | completed and submitted booking system assignment |
+| 22.02.2025 | 3 | watching class video | gained insight into class teaching|
+| 20.02.2025 | 6 | doing booking phase 2 assignment | completed and submitted booking system phase 2 assignment |
+
