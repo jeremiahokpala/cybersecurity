@@ -16,4 +16,7 @@
 | 20.02.2025 | 13 | doing booking system assignment | completed and submitted booking system assignment |
 | 22.02.2025 | 3 | watching class video | gained insight into class teaching|
 | 20.02.2025 | 6 | doing booking phase 2 assignment | completed and submitted booking system phase 2 assignment |
+| 15.03.2025 | 7 | watching guild video and doing assignment | did part of booking system phase2 part 1 assignment|
+| 16.03.2025 | 5 | doing remain part of assignment | completed and submitted booking system phase 2 part 1 assignment |
+
 
